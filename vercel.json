@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://sub.techmelk.com/$1"
+      "destination": "https://my.techmelk.com/$1"
     }
   ]
 }
