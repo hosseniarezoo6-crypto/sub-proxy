@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sub.techmelk.com/$1"
+    }
+  ]
+}
